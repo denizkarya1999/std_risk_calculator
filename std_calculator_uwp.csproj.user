@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <AppIconSource>C:\Users\deniz\Desktop\safex.png</AppIconSource>
+    <SmallTileSource>C:\Users\deniz\Desktop\safex.png</SmallTileSource>
+    <MediumTileSource>C:\Users\deniz\Desktop\Untitled-2.png</MediumTileSource>
+    <WideTileSource>C:\Users\deniz\Desktop\Untitled-3.png</WideTileSource>
+    <LargeTileSource>C:\Users\deniz\Desktop\Untitled-4.png</LargeTileSource>
+    <SplashScreenSource>C:\Users\deniz\Desktop\Untitled-5.png</SplashScreenSource>
+    <BadgeLogoSource>
+    </BadgeLogoSource>
+  </PropertyGroup>
+</Project>

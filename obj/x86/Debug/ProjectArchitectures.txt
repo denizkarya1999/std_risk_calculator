@@ -1,0 +1,1 @@
+C:\Users\deniz\source\repos\std_calculator_uwp\std_calculator_uwp.csproj;x86
